@@ -2,7 +2,7 @@
 Tracking code lines and characters all subdirectories
 
 ## How to use
-Download codetracker - [Link]()
+Download codetracker - [Link](https://github.com/devhoodit/codetracker/releases/tag/v0.1.0)
   
 Move file to directory where you want  
 Set environment variable, so that call codetracker anywhere you want  
